@@ -23,6 +23,8 @@ public class PruebaDeProyecto {
         //la variable x se suma mas 2;
         //
         int y=-2;
+        //mas pruebas
+        System.out.println("");
     }
     
 }
