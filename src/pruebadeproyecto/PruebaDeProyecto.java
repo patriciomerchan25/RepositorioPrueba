@@ -20,6 +20,8 @@ public class PruebaDeProyecto {
         int x = 4;
         //eiofruiewfidsfj
         x= x+2;
+        //mas pruebas
+        System.out.println("");
     }
     
 }
