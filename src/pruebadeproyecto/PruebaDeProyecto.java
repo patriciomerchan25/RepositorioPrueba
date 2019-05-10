@@ -20,6 +20,9 @@ public class PruebaDeProyecto {
         int x = 4;
         //eiofruiewfidsfj
         x= x+2;
+        //la variable x se suma mas 2;
+        //
+        int y=-2;
     }
     
 }
