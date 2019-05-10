@@ -17,6 +17,9 @@ public class PruebaDeProyecto {
     public static void main(String[] args) {
         // TODO code application logic here
         //Pruebaaaa...
+        int x = 4;
+        //eiofruiewfidsfj
+        x= x+2;
     }
     
 }
